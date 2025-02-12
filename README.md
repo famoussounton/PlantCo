@@ -44,7 +44,7 @@ This **Power BI dashboard** provides **data-driven insights** to optimize **sale
 ### 📌 Key Dashboard Elements  
 ✔️ **📈 Waterfall Chart** – YTD vs PYTD revenue breakdown.  
 ✔️ **📊 Stacked Column Chart** – Quarterly sales trends.  
-✔️ **🌍 Geographic Map** – High/low-performing regions.  
+✔️ **🌍 TreeMap** – High/low-performing regions.  
 
 ### 🔀 Interactive Features  
 ✅ **Slicers** for time, region, and product categories.  
