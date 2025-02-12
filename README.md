@@ -33,7 +33,7 @@ This **Power BI dashboard** provides **data-driven insights** to optimize **sale
 ✅ **Total Sales Revenue**  
 ✅ **Year-to-Date (YTD) Sales**  
 ✅ **Previous Year-to-Date (PYTD) Sales**  
-✅ **Sales Growth % (YoY)**  
+✅ **Sales Growth % (GP)**  
 
 📌 **Dynamic KPI Selector** – Users can toggle between **Sales, Gross Profit, and Quantity** for deeper analysis.  
 
@@ -55,10 +55,9 @@ This **Power BI dashboard** provides **data-driven insights** to optimize **sale
 
 ## 📊 Key Insights & Business Recommendations  
 
-📈 **12.8% YoY Revenue Growth** 🚀  
+📈 **39.5% YoY Revenue Growth** 🚀  
 📆 **Peak sales in Q2 & Q4** – Aligns with seasonal demand.  
-🔥 **Top 65% revenue from indoor decorative plants**.  
-🌍 **North America leads (45% of sales), while Asia-Pacific lags**.  
+🔥 **Top 35% revenue from outdoor decorative plants**.    
 ❌ **Outdoor plant sales in Canada declined by 18% YoY**.  
 
 ### 📢 Actionable Business Recommendations  
@@ -100,12 +99,8 @@ This **Power BI dashboard transforms PlantCo’s sales data into actionable inte
 ---
 
 ## 📌 About Me  
-👨‍💻 **Data Analyst | Machine Learning Enthusiast | Power BI Expert**  
+👨‍💻 **Data Analyst | Machine Learning Enthusiast**  
 🌍 Passionate about **data storytelling, analytics, and automation**.  
-
-💬 **Let’s connect!** [LinkedIn](#) | [Portfolio](#)  
-
-📢 **Want to collaborate?** Feel free to fork this repository and contribute! 🚀  
 
 ---
 
