@@ -2,6 +2,9 @@
 
 📊 **Power BI | Data Analytics | Business Intelligence**  
 
+![Capture d'écran 2025-02-12 150603](https://github.com/user-attachments/assets/0831c804-934d-46ea-aeaa-3f3157339229)
+
+
 ## 📖 Overview  
 **PlantCo** is a **leading supplier of indoor and outdoor plants**, serving **retail and corporate clients** across **North America and Europe**. The company noticed **sales fluctuations** and wanted to analyze **regional profitability, seasonal trends, and product performance**.  
 
